@@ -4,4 +4,4 @@ Scripts for for predicting the solar heat gain and BSDF of a complex fenestratio
 
 
 ### How to use:
-Execute 
+Execute...
